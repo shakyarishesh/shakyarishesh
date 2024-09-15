@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shakyarishesh
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking for an internship on laravel web development
+- 📫 How to reach me Phoneno: 9841701082
