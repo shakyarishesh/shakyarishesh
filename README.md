@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @shakyarishesh
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking for an internship on laravel web development
-- 📫 How to reach me Phoneno: 9841701082
+🚀 Hi, I'm Rishesh Shakya!
+👨‍💻 Junior Laravel Developer | Passionate about building scalable web applications
+👀 Tech Interests: Backend Development, APIs, Authentication, Web Security
+🌱 Currently Working With: Laravel 11, REST APIs, Firebase, JWT, MySQL/PostgreSQL, MongoDB
+💡 Exploring: Docker, and Laravel Packages (Spatie, Telescope, Passport)
+📌 Looking for: Opportunities to grow as a Laravel & Full-Stack Developer
+📫 Reach Me: shakyarishesh@gmail.com | Phone: 9841701082
