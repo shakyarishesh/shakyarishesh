@@ -1,5 +1,5 @@
 # 💫 About Me:
--🚀 Hi, I'm Rishesh Shakya! <br>-👨‍💻 Laravel Developer | Passionate about building scalable web applications <br>-👀 Tech Interests: Backend Development, APIs, Authentication, Web Security <br>-🌱 Currently Working With: Laravel 11, REST APIs, Firebase, JWT, MySQL/PostgreSQL, MongoDB <br>-💡 Exploring: Docker, and Laravel Packages (Spatie, Telescope, Passport) <br>-📌 Looking for: Opportunities to grow as a Laravel & Full-Stack Developer <br>-📫 Reach Me: shakyarishesh@gmail.com | Phone: 9841701082
+-🚀 Hi, I'm Rishesh Shakya! <br>-👨‍💻 Laravel Developer | Passionate about building scalable web applications <br>-👀 Tech Interests: Backend Development, APIs, Authentication, Web Security <br>-🌱 Currently Working With: Laravel 11, REST APIs, Firebase, JWT, MySQL/PostgreSQL, MongoDB <br>-💡 Exploring: Docker, and Laravel Packages (Spatie, Telescope, Passport) <br>-📌 Looking for: Opportunities to grow as a Laravel & Full-Stack Developer <br>-📫 Reach Me: shakyarishesh@gmail.com | Phone: 9841701082 <br> Portfilio: https://risheshshakya.com.np/rishesh
 
 
 ## 🌐 Socials:
